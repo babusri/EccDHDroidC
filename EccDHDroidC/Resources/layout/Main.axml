@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="2"
+        android:columnCount="1">
+
+  <Button
+      android:id="@+id/a1b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/yellow"
+      android:text="@string/a1"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/a1t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/yellow"
+      android:gravity="center"
+      android:textSize="9dip" />
+
+  <Button
+      android:id="@+id/a2b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/yellow"
+      android:text="@string/a2"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/a2t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/yellow"
+      android:gravity="center"
+      android:textSize="9dip" />
+
+  <Button
+      android:id="@+id/a3b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/yellow"
+      android:text="@string/a3"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/a3t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/yellow"
+      android:gravity="center"
+      android:textSize="9dip" />
+
+  <Button
+      android:id="@+id/b1b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/cyan"
+      android:text="@string/b1"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/b1t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/cyan"
+      android:gravity="center"
+      android:textSize="9dip" />
+
+  <Button
+      android:id="@+id/b2b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/cyan"
+      android:text="@string/b2"
+      android:textSize="12dip" />
+
+    <TextView
+      android:id="@+id/b2t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/cyan"
+      android:gravity="center"
+      android:textSize="9dip" />
+
+  <Button
+      android:id="@+id/b3b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/cyan"
+      android:text="@string/b3"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/b3t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/cyan"
+      android:gravity="center"
+      android:textSize="9dip" />
+
+  <Button
+      android:id="@+id/a4b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/yellow"
+      android:text="@string/a4"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/a4t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/yellow"
+      android:gravity="center"
+      android:textSize="12dip" />
+
+  <Button
+      android:id="@+id/b4b"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textColor="@color/cyan"
+      android:text="@string/b4"
+      android:textSize="12dip" />
+
+  <TextView
+      android:id="@+id/b4t"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textStyle="bold"
+      android:textColor="@color/black"
+      android:background="@color/cyan"
+      android:gravity="center"
+      android:textSize="12dip" />
+
+</GridLayout>
