@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
-    <Reference Include="Curve25519, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Curve25519, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\packages\Curve25519.1.0.1\lib\net20\Curve25519.dll</HintPath>
     </Reference>
   </ItemGroup>
@@ -61,6 +61,7 @@
     <AndroidResource Include="Resources\layout\Main.axml" />
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\values\Colors.xml" />
+    <AndroidResource Include="Resources\drawable\custom_scroll_style.xml" />
     <AndroidResource Include="Resources\mipmap-hdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-mdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xhdpi\Icon.png" />
